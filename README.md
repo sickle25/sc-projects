@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1hTkSc0X3D_Xl9pN
 
 ## Project Source Codes:
 * [babygraphics](https://github.com/sickle25/sc-projects/blob/main/stanCode_Projects/babygraphics/babygraphics.py)
-  * 
+  
 * [boggle_game_solver](https://github.com/sickle25/sc-projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive functions
 * [breakout_game](https://github.com/sickle25/sc-projects/blob/main/stanCode_Projects/breaak_out_game/breakout.py)
